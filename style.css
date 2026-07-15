@@ -1,0 +1,44 @@
+table{
+    width: 100%;
+    height: 90vh;
+    text-align: center;
+}
+
+td{
+    width: 5.5%;
+    height: 10%;
+    
+}
+
+.atomico{text-align: left;}
+.nMetais{background-color: rgb(12, 231, 12);}
+.MetaisAl{background-color: orange;}
+.MetaisAlTerro{background-color: yellow;}
+.MetaisdeTrans{background-color: rgb(233, 62, 62);}
+.Lantanideos{background-color: aquamarine;}
+.Semimetais{background-color: rgb(39, 196, 143);}
+.OutrosMetais{background-color: rgb(24, 227, 200);}
+.Halogenios{background-color: aqua;}
+.GasNobre{background-color: blue;}
+.Actinideos{background-color: rgb(208, 0, 208);}
+.elemento{ 
+    height: 40%;
+    cursor: pointer;
+}
+
+.elemento span{
+    height: 100%;
+    
+    cursor: pointer;
+    visibility: hidden;
+}
+.elemento:hover span{
+    visibility: visible;
+}
+
+body{
+    border-color: black;
+    border-style: double;
+    zoom: 60%;
+}
+
