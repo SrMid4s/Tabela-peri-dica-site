@@ -1,1 +1,1 @@
-https://github.com/SrMid4s/Tabela-peri-dica-site.git
+https://srmid4s.github.io/Tabela-peri-dica-site/
